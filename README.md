@@ -113,10 +113,30 @@ To continuously improve my Cyber Security skills through research, practical lab
 
 ---
 
-# 📫 Connect
+# 🌐 Connect With Me
 
-GitHub:
-https://github.com/mamun01eee
+<p align="left">
+
+<a href="mailto:mamun01eee@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://wa.me/8801319943707">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://t.me/mamun01eee">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+<a href="https://github.com/mamun01eee">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
 
 <!--
 **mamun01eee/mamun01eee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
