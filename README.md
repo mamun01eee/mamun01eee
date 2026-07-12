@@ -2,7 +2,7 @@
 
 ⚡ Electrical & Electronics Engineer | 🔐 Cyber Security Enthusiast | 💻 Technology Learner
 
-I am passionate about Cyber Security, Ethical Hacking, Linux, Electronics, and Automation.
+I am passionate about Cyber Security, Ethical Hacking, Linux, Development, Graphics Design, Electrical, Electronics, and Automation.
 
 Currently building my skills in cybersecurity fundamentals, Linux administration, networking, and security tools while combining my electronics background with modern technology.
 
