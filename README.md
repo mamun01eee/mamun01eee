@@ -1,13 +1,50 @@
-# Hi, I'm Abdullah Al Mamun 👋
+# 👋 Hi, I'm Abdullah Al Mamun
 
-## 🛡️ Cyber Security Professional
+⚡ Electrical & Electronics Engineer | 🔐 Cyber Security Enthusiast | 💻 Technology Learner
 
-Passionate about Cyber Security, Ethical Hacking, and Information Security.
-Focused on understanding security concepts, identifying vulnerabilities, and building secure solutions.
+I am passionate about Cyber Security, Ethical Hacking, Linux, Electronics, and Automation.
+
+Currently building my skills in cybersecurity fundamentals, Linux administration, networking, and security tools while combining my electronics background with modern technology.
 
 ---
 
-## 🔐 Cyber Security Skills
+# 🧰 Tech Stack
+
+### 🔐 Cyber Security
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
+![Nmap](https://img.shields.io/badge/Nmap-grey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
+
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+### ⚡ Electronics & Automation
+![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
+![PLC](https://img.shields.io/badge/PLC%20Automation-blue?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-grey?style=for-the-badge)
+
+---
+
+# 📚 Currently Learning
+
+- Linux Administration
+- Networking Fundamentals
+- Cyber Security Fundamentals
+- Ethical Hacking Methodology
+- Python Programming
+- Bash Scripting
+- Web Security Basics
+- Vulnerability Assessment
+- Security Tools
+
+---
+
+# 🔐 Cyber Security Skills
 
 - Penetration Testing
 - Vulnerability Assessment
@@ -18,18 +55,19 @@ Focused on understanding security concepts, identifying vulnerabilities, and bui
 
 ---
 
-## 🧰 Tools & Technologies
+# ⚡ Electronics & Engineering Skills
 
-- Kali Linux
-- Nmap
-- Wireshark
-- Burp Suite
-- Metasploit
-- Git & GitHub
+- Arduino Programming
+- Robotics Projects
+- Drone Technology
+- PLC & Industrial Automation
+- Electrical Circuit Analysis
+- IPS & Solar System Projects
+- Electronic Troubleshooting
 
 ---
 
-## 💻 Programming & Technical Skills
+# 💻 Programming & Technical Skills
 
 - Python
 - Bash Scripting
@@ -40,33 +78,42 @@ Focused on understanding security concepts, identifying vulnerabilities, and bui
 
 ---
 
-## 📚 Areas of Interest
+# 🎯 Current Focus
 
-- Ethical Hacking
-- Red Teaming
-- Security Research
-- CTF Challenges
-- Cyber Security Automation
-
----
-
-## 🚀 Projects
-
-🔹 Cyber Security Notes  
-🔹 Security Tools Practice  
-🔹 Python Automation Scripts  
-🔹 Networking Labs  
-🔹 Electronics & Embedded Projects  
+- Building Cyber Security knowledge
+- Practicing Linux commands
+- Creating security-related projects
+- Documenting my learning journey
+- Improving Python and automation skills
 
 ---
 
-## 🎯 Goal
+# 📂 Featured Projects
+
+🔹 Linux Command Handbook  
+🔹 Arduino Projects  
+🔹 Drone Development Projects  
+🔹 Electronics Experiments  
+🔹 Automation Projects  
+
+---
+
+# 📖 Learning Platforms
+
+- TryHackMe
+- Hack The Box
+- PortSwigger Web Security Academy
+- GitHub Learning  
+
+---
+
+# 🎯 Goal
 
 To continuously improve my Cyber Security skills through research, practical labs, and real-world projects.
 
 ---
 
-## 📫 Connect
+# 📫 Connect
 
 GitHub:
 https://github.com/mamun01eee
