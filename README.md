@@ -10,18 +10,26 @@ Currently building my skills in cybersecurity fundamentals, Linux administration
 
 # 🧰 Tech Stack
 
-### 🔐 Cyber Security
+### 🔐 Cyber Security & IT
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-blue?style=for-the-badge&logo=kalilinux)
-![Nmap](https://img.shields.io/badge/Nmap-grey?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge)
-
-### 💻 Programming & Tools
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+
+### 💻 Software & Development
+![App Development](https://img.shields.io/badge/App%20Development-green?style=for-the-badge)
+![Web Development](https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-brightgreen?style=for-the-badge&logo=android)
+
+
+### 🎨 Design & Engineering Tools
+![Graphics Design](https://img.shields.io/badge/Graphics%20Design-purple?style=for-the-badge)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-red?style=for-the-badge&logo=autodesk)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&logo=adobeillustrator)
+
 
 ### ⚡ Electronics & Automation
 ![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge&logo=arduino)
